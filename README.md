@@ -1,6 +1,6 @@
 # Git Auto Sync
 
-A simple script that automatically (at a fixed interval),
+A simple script that automatically, at a fixed interval,
 
 - pulls changes from upstream if there any
 - commits and pushes changes to upstream
@@ -8,7 +8,7 @@ A simple script that automatically (at a fixed interval),
 
 ## Reason
 
-I use Markdown and Obsidian for most of my note-taking. Having to make sure that the notes are in properly sync across multiple devices without relying on external cloud services is a hassle. Given I use Git on all of my devices, I thought why not, I don't care about commit messages for my notes but just the sync.
+I use Markdown and Obsidian for most of my note-taking. Having to make sure that the notes are properly in sync across multiple devices without relying on external cloud services is a hassle. Given I use git on all of my devices, I thought why not, I don't care about commit messages for my notes as long as the notes and the stuff are in sync.
 
 ## Dependency Installation
 
